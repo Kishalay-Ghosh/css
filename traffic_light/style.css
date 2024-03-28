@@ -1,0 +1,57 @@
+#outer{
+    height: 400px;
+    width: 100px;
+    background-color:black;
+    border: 2px solid black;
+}
+
+#r{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+    margin-bottom:  40px;
+}
+#y{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+   
+    margin-bottom:  40px;
+}
+
+#g{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    /* background-color:green; */
+    
+}
+
+@media(min-width:400px ) and (max-width:599px)
+{
+    #r{
+       
+        background-color: red;
+       
+    }
+}
+
+@media(min-width:600px) and (max-width:799px)
+{
+    #y{
+        
+        background-color:yellow;
+        
+    }
+}
+@media(min-width:800px) and (max-width:999px)
+{
+    #g{
+        
+      
+        background-color:green;
+        
+    }
+    
+}

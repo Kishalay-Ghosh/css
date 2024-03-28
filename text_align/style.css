@@ -1,0 +1,46 @@
+p{
+    /* text-align: right; */
+    /* text-align: left; */
+    /* text-align: center; */
+    /* text-align: end; */
+    text-align: start;
+}
+h1{
+    text-align: center;
+    text-decoration: #0000ff dashed underline; 
+}
+
+#h1{
+    font-weight: lighter;
+}
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: 5px; */
+    line-height: 16px;
+
+    /* text-transform: uppercase; */
+    text-transform: capitalize;
+}
+
+a{
+    text-decoration: none;
+}
+/* pratice set two */
+/* q1-----------> */
+#h2{
+    text-transform: uppercase;
+}
+
+/* q2-----------> */
+#h3{
+    font-family: 'Times New Roman';
+}
+
+/* q2-----------> */
+#outer{
+    font-size: 25px;
+
+}
+#inner{
+    font-size: 10px;
+}

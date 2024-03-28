@@ -1,0 +1,24 @@
+h1{
+    color:green;
+}
+p{
+    color:red;
+}
+button{
+    color:brown;
+    background-color:green; 
+}
+
+body{
+    background-color:rgb(152, 235, 198 ) ;
+}
+#htwo{
+    color: pink;
+}
+.myclass{
+    color: #ffff00;
+}
+#box{
+    background-color:blue;
+    color:#ffffff;
+}
